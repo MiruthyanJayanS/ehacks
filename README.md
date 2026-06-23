@@ -35,7 +35,6 @@ The primary objective of this project is educational and research-oriented, help
 
 ```text
 ehacks/
-├── access.log
 ├── hk-telnet-server-version-3-0-1.exe
 ├── key.txt
 ├── keylogger.py
