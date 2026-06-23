@@ -1,80 +1,90 @@
-# EHacks - Ethical Hacking Learning Toolkit
+# EHacks - Ethical Hacking Learning Project
 
 ## Overview
 
-EHacks is a Python-based educational cybersecurity project developed to understand the fundamentals of ethical hacking, network communication, and system monitoring techniques. This project was created as part of a personal learning journey during my college years to explore concepts such as keylogging, client-server communication, and remote system interaction using Telnet.
+EHacks is a Python-based cybersecurity learning project developed during an inter-college hackathon, where it was awarded **First Prize**. The project was created to explore and understand fundamental ethical hacking concepts, including keyboard event logging and remote communication through a Telnet server.
 
-The primary objective of this project is educational and research-oriented, helping students understand how certain cybersecurity concepts work so they can better identify, prevent, and defend against malicious activities.
+The objective was to gain hands-on experience with Python, networking, and system-level interactions while learning how such techniques work from a cybersecurity perspective.
+
+---
+
+## 🏆 Achievement
+
+**First Prize Winner – Inter-College Hackathon**
+
+EHacks was developed as a hackathon project and recognized for its practical demonstration of cybersecurity concepts using Python.
 
 ---
 
 ## Features
 
-* Python-based implementation
-* Study of keyboard event monitoring concepts
-* Basic Telnet server-client communication
-* Network communication fundamentals
-* Modular code structure for learning and experimentation
-* Logging and monitoring demonstrations
-* Educational examples for cybersecurity enthusiasts
+### 1. Telnet Server
+
+A simple Telnet-based server application built using Python that demonstrates:
+
+* Client-server communication
+* Remote connections
+* Basic networking concepts
+* Socket programming fundamentals
+
+### 2. Keylogger Demonstration
+
+A Python implementation that captures and logs keyboard inputs for educational purposes, helping understand:
+
+* Event monitoring
+* Input logging mechanisms
+* System interaction concepts
+* Security awareness regarding monitoring software
 
 ---
 
 ## Technologies Used
 
-* Python 3.x
+* Python 3
 * Socket Programming
 * Telnet Protocol
-* Threading
 * File Handling
-* Network Programming Concepts
 
 ---
 
-## Project Structure
+## Project Files
 
 ```text
-ehacks/
-├── hk-telnet-server-version-3-0-1.exe
-├── key.txt
+EHacks/
+│
+├── telnet-server.exe
 ├── keylogger.py
 └── README.md
 ```
 
 ---
 
-## Learning Objectives
+## Educational Purpose
 
-This project was built to gain practical knowledge in:
+This project was developed as a learning exercise to understand:
 
-* Network protocols and communication
-* Client-server architecture
-* Python socket programming
+* Ethical hacking fundamentals
+* Network communication
+* Python system programming
 * Logging mechanisms
-* Cybersecurity fundamentals
-* Ethical hacking concepts
-* Defensive security awareness
+* Cybersecurity awareness
 
-## Educational Disclaimer
-
-This project was developed strictly for educational and research purposes. The implementation is intended to help students and cybersecurity learners understand how monitoring and network communication mechanisms operate.
-
-Users are responsible for ensuring that any experimentation is conducted only on systems they own or have explicit authorization to test.
-
-The author does not endorse or encourage unauthorized access, surveillance, or misuse of computer systems.
+By studying how these techniques operate, learners can better understand potential security risks and defensive measures.
 
 ---
 
-## Future Improvements
+## Disclaimer
 
-* Secure authentication mechanisms
-* Encrypted communication channels
-* Advanced logging analysis
-* Network monitoring dashboard
-* Improved modular architecture
-* Security hardening practices
+This project was created for educational and research purposes as part of a hackathon learning experience. It is intended to demonstrate cybersecurity concepts and increase awareness of how monitoring and networking tools function.
+
+Users should only conduct testing on systems they own or have explicit authorization to access.
 
 ---
+
+## Recognition
+
+🏅 **First Prize – Inter-College Hackathon**
+
 
 ## Author
 
