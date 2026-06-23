@@ -55,43 +55,6 @@ This project was built to gain practical knowledge in:
 * Ethical hacking concepts
 * Defensive security awareness
 
----
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/EHacks.git
-cd EHacks
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Usage
-
-Run the desired module:
-
-```bash
-python server.py
-```
-
-or
-
-```bash
-python client.py
-```
-
-Follow the module-specific instructions within each directory.
-
----
-
 ## Educational Disclaimer
 
 This project was developed strictly for educational and research purposes. The implementation is intended to help students and cybersecurity learners understand how monitoring and network communication mechanisms operate.
